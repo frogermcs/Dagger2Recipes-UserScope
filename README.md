@@ -1,4 +1,4 @@
-# Dagger2Recipes-UserScope
+# Dagger2Recipes: UserScope
 Example app which shows how to create UserScope in Dagger 2
 
 ---
